@@ -1,0 +1,11 @@
+C:\Users\AG\Desktop\PRACA\Generator Haseł\AgeWizard\AgeWizard\obj\Debug\AgeWizard.csproj.AssemblyReference.cache
+C:\Users\AG\Desktop\PRACA\Generator Haseł\AgeWizard\AgeWizard\obj\Debug\AgeWizard.csproj.SuggestedBindingRedirects.cache
+C:\Users\AG\Desktop\PRACA\Generator Haseł\AgeWizard\AgeWizard\obj\Debug\AgeWizard.Form1.resources
+C:\Users\AG\Desktop\PRACA\Generator Haseł\AgeWizard\AgeWizard\obj\Debug\AgeWizard.Properties.Resources.resources
+C:\Users\AG\Desktop\PRACA\Generator Haseł\AgeWizard\AgeWizard\obj\Debug\AgeWizard.csproj.GenerateResource.cache
+C:\Users\AG\Desktop\PRACA\Generator Haseł\AgeWizard\AgeWizard\obj\Debug\AgeWizard.csproj.CoreCompileInputs.cache
+C:\Users\AG\Desktop\PRACA\Generator Haseł\AgeWizard\AgeWizard\bin\Debug\AgeWizard.exe.config
+C:\Users\AG\Desktop\PRACA\Generator Haseł\AgeWizard\AgeWizard\bin\Debug\AgeWizard.exe
+C:\Users\AG\Desktop\PRACA\Generator Haseł\AgeWizard\AgeWizard\bin\Debug\AgeWizard.pdb
+C:\Users\AG\Desktop\PRACA\Generator Haseł\AgeWizard\AgeWizard\obj\Debug\AgeWizard.exe
+C:\Users\AG\Desktop\PRACA\Generator Haseł\AgeWizard\AgeWizard\obj\Debug\AgeWizard.pdb
